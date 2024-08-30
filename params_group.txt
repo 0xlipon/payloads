@@ -6,4 +6,4 @@ VulnParamGroup lfi = new VulnParamGroup("LFI", HighlightColor.YELLOW, "cat", "di
 VulnParamGroup or = new VulnParamGroup("OR", HighlightColor.PINK, "next", "url", "target", "rurl", "dest", "destination", "redir", "redirect_uri", "redirect_url", "redirect", "out", "view", "to", "image_url", "go", "return", "returnTo", "return_to", "checkout_url", "continue", "return_path");
 VulnParamGroup rce = new VulnParamGroup("RCE", HighlightColor.RED, "cmd", "exec", "command", "execute", "ping", "query", "jump", "code", "reg", "do", "func", "arg", "option", "load", "process", "step", "read", "feature", "exe", "module", "payload", "run", "print");
 
-// Thanks :)
+// 
