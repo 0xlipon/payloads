@@ -1,0 +1,6 @@
+Bug Bounty Wordlist:
+====================
+General wordlist: https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt
+For PHP: https://wordlists-cdn.assetnote.io/data/automated/httparchive_php_2020_11_18.txt
+For asp, aspx: https://wordlists-cdn.assetnote.io/data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt
+For java applictions: https://wordlists-cdn.assetnote.io/data/automated/httparchive_jsp_jspa_do_action_2022_08_28.txt
